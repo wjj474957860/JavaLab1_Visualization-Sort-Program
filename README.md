@@ -1,4 +1,4 @@
 Visualization-Sort-Program
 ==========================
 
-Lab One : Visualization Sort Program for Java 
+#### Lab One : Visualization Sort Program for Java 
